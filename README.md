@@ -12,5 +12,5 @@ Projeto acadêmico desenvolvido em linguagem C++, com foco na organização e ge
 ### 2. Blue Sky
 Projeto de desenvolvimento web voltado ao universo de skincare, utilizando HTML, CSS e JavaScript.
 
-- **Acessar o site:** https://viviferbuf.github.io/bluesky/
+- **Acessar o site:**(https://viviferbufr.github.io/bluesky/index.html)
 - **Tecnologias:** HTML, CSS e JavaScript.
